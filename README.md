@@ -8,7 +8,7 @@ For my student projects, I usually upload to github once I make significant prog
 <h2>Student Projects</h2>
 
 - <b>Web Design</b>
-  - [Healthy Recipes Website using HTML, CSS](https://github.com/)
+  - [Healthy Recipes Website using HTML, CSS](https://github.com/riiisho/HealthyRecipesWebsite)
 - <b>Application Design</b>
   - [Translator Demo in Python](https://github.com/)
 
