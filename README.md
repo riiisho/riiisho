@@ -10,7 +10,7 @@ For my student projects, I usually upload to github once I make significant prog
 - <b>Web Design</b>
   - [Healthy Recipes Website using HTML, CSS](https://github.com/riiisho/HealthyRecipesWebsite)
 - <b>Application Design</b>
-  - [Translator Demo in Python](https://github.com/)
+  - [Translator Demo in Python](https://github.com/riiisho/TranslatorDemo)
 
 <h2>Connections</h2>
 
