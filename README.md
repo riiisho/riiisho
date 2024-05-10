@@ -16,4 +16,4 @@ For my student projects, I usually upload to github once I make significant prog
 
 [<img align="left" alt="HenryShore | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://www.linkedin.com/in/henryshore/
