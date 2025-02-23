@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Henry!👋<br/></h1>
 
-🚗 Web Developer | Automotive Industry
+🚗 <b>Web Developer | Automotive Industry</b><br>
 💻 Passionate about building high-performance, user-friendly web applications
 
 <h2>About Me</h2>
