@@ -1,9 +1,23 @@
-<h1>Hey, I'm Henry!<br/></h1>
+<h1>Hi there, I'm Henry!👋<br/></h1>
+
+🚗 Web Developer | Automotive Industry
+💻 Passionate about building high-performance, user-friendly web applications
 
 <h2>About Me</h2>
 
-I'm a college student who lives in the UK. I'm currently completing a Level 3 Extended Diploma in IT. I enjoy making and designing webpages with HTML and CSS and love learning new coding languages to push my abilities further.<br><br>
-For my student projects, I usually upload to github once I make significant progress and it is coding based.
+I'm a web developer specializing in creating seamless digital experiences for the automotive sector. Whether it's crafting dynamic websites, optimizing performance, or integrating cutting-edge technologies, I thrive on delivering innovative solutions.
+
+<h2>Technologies & Tools</h2>
+
+- <b>Frontend:</b> HTML, CSS, JavaScript
+- <b>Backend:</b> .NET, C#, Umbraco
+- <b>Other:</b> API Development, Cloud Services, AI Services
+
+<h2>What I'm Working On</h2>
+
+- 🚀 Enhancing digital experiences in the automotive space
+- 🏗️ Building a modern, luxury car sales platform
+- 🛠️ Experimenting with AI integrations using Azure AI Foundry
 
 <h2>Student Projects</h2>
 
@@ -12,7 +26,7 @@ For my student projects, I usually upload to github once I make significant prog
 - <b>Application Design</b>
   - [Translator Demo in Python](https://github.com/riiisho/TranslatorDemo)
 
-<h2>Connections</h2>
+<h2>Let's Connect!</h2>
 
 [<img align="left" alt="HenryShore | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
