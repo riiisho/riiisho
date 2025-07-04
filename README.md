@@ -19,6 +19,12 @@ I'm a web developer specializing in creating seamless digital experiences for th
 - 🏗️ Building a modern, luxury car sales platform
 - 🛠️ Experimenting with AI integrations using Azure AI Foundry
 
+<h2>Deployed Projects</h2>
+
+- <b>Greenhous</b>
+  - [greenhous.co.uk](https://www.greenhous.co.uk/)
+  - [greenhouscommercials.co.uk](https://www.greenhouscommercials.co.uk/)
+
 <h2>Student Projects</h2>
 
 - <b>Web Design</b>
