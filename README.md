@@ -23,6 +23,7 @@ I'm a web developer specializing in creating seamless digital experiences for th
 
 - <b>Greenhous</b>
   - [greenhous.co.uk](https://www.greenhous.co.uk/)
+  - [gghl.co.uk](https://www.gghl.co.uk/)
   - [greenhouscommercials.co.uk](https://www.greenhouscommercials.co.uk/)
 
 <h2>Student Projects</h2>
