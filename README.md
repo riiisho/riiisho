@@ -1,40 +1,79 @@
-<h1>Hi there, I'm Henry!👋<br/></h1>
+<h1 align="center">Henry Shore</h1>
+<p align="center">
+  Web Developer • Automotive • .NET
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/henryshore/">LinkedIn</a>
+</p>
 
-🚗 <b>Web Developer | Automotive Industry</b><br>
-💻 Passionate about building high-performance, user-friendly web applications
+---
 
-<h2>About Me</h2>
+## About
 
-I'm a web developer specializing in creating seamless digital experiences for the automotive sector. Whether it's crafting dynamic websites, optimizing performance, or integrating cutting-edge technologies, I thrive on delivering innovative solutions.
+I build websites for the automotive industry.
 
-<h2>Technologies & Tools</h2>
+Most of my work includes creating full stack web applications and systems that people use every day.  
 
-- <b>Frontend:</b> HTML, CSS, JavaScript
-- <b>Backend:</b> .NET, C#, Umbraco
-- <b>Other:</b> API Development, Cloud Services, AI Services
+**I currently am**  
 
-<h2>What I'm Working On</h2>
+- Building a modern car sales platform from the ground up
+- Implementing live and timed auctions into digital marketplaces
+- Improving UX and performance across live dealer websites  
+- Exploring practical AI use cases with Azure
+- Expanding on an API image service for image related tasks
 
-- 🚀 Enhancing digital experiences in the automotive space
-- 🏗️ Building a modern, luxury car sales platform
-- 🛠️ Experimenting with AI integrations using Azure AI Foundry
+## Stack
 
-<h2>Deployed Projects</h2>
+**Languages**  
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="24" /> HTML &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="24"/> CSS &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="24"/> JavaScript &nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" height="24"/> C#
+</p>
 
-- <b>Greenhous</b>
-  - [greenhous.co.uk](https://www.greenhous.co.uk/)
-  - [gghl.co.uk](https://www.gghl.co.uk/)
-  - [greenhouscommercials.co.uk](https://www.greenhouscommercials.co.uk/)
+**Frontend**  
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="24"/> Bootstrap &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="24"/> Tailwind &nbsp;
+  <img src="https://skillicons.dev/icons?i=vue" height="24"/> Vue &nbsp;
+  <img src="https://skillicons.dev/icons?i=angular" height="24"/> Angular
+</p>
 
-<h2>Student Projects</h2>
+**Backend**  
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="24"/> .NET &nbsp;
+  Umbraco
+</p>
 
-- <b>Web Design</b>
-  - [Healthy Recipes Website using HTML, CSS](https://github.com/riiisho/HealthyRecipesWebsite)
-- <b>Application Design</b>
-  - [Translator Demo in Python](https://github.com/riiisho/TranslatorDemo)
+**Tools**  
+<p>
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="24"/> Visual Studio &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="24"/> VS Code &nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="24"/> Git &nbsp;
+  <img src="https://skillicons.dev/icons?i=azure" height="24"/> Azure &nbsp;
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="24"/> Cloudflare &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="24"/> GitHub
+</p>
 
-<h2>Let's Connect!</h2>
+## Deployed Projects
 
-[<img align="left" alt="HenryShore | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+**Greenhous Group**  
+Multi-franchise dealer websites and commercial vehicle platforms.
 
-[linkedin]: https://www.linkedin.com/in/henryshore/
+- https://www.greenhous.co.uk/
+- https://www.gghl.co.uk/
+- https://www.greenhouscommercials.co.uk/
+
+**Handmade By Tiggle**  
+Jewellery ecommerce website.
+
+- https://www.handmadebytiggle.co.uk/
+
+## Student & Side Projects
+
+**Web Design** in college  
+[Healthy Recipes Website (HTML/CSS)](https://github.com/riiisho/HealthyRecipesWebsite)
+
+**Application Design** in college  
+[Translator Demo (Python)](https://github.com/riiisho/TranslatorDemo)
