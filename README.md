@@ -72,6 +72,9 @@ Jewellery ecommerce website.
 
 ## Student & Side Projects
 
+**OLEDLab** [OLED Display Tools](https://oledlab-e2gpbhfxgqbrcjhr.ukwest-01.azurewebsites.net/)  
+https://github.com/riiisho/oledlab  
+
 **Web Design** in college  
 [Healthy Recipes Website (HTML/CSS)](https://github.com/riiisho/HealthyRecipesWebsite)
 
